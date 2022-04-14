@@ -8,3 +8,5 @@ torch_utils/__pycache__/
 torch_utils/ops/__pycache__/
 
 network.pkl
+
+00000-stylegan3-t-faces-gpus2-batch16-gamma8.2/
